@@ -1,8 +1,5 @@
 # License Plate Detection with a Fine-Tuned YOLOv8n
 
-Deep Learning project, BSE-7A.
-Team: Hafiz Umar (23K-0035), Naveed Ahmed (23K-3025), Imam Ali Mehdi (23K-3029)
-
 Single-class object detection (`license_plate`): a COCO-pretrained **YOLOv8n** is fine-tuned on the
 [`keremberke/license-plate-object-detection`](https://huggingface.co/datasets/keremberke/license-plate-object-detection)
 dataset. An optional EasyOCR step reads the detected plates (out of project scope).
